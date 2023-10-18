@@ -13,6 +13,8 @@ public class String_word {
 		letter_count++;
 	}
 	System.out.println(letter_count);
+	
+	
 	}
 
 }
